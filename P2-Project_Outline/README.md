@@ -28,8 +28,8 @@ We’re looking to create a reincarnation of Myspace that also serves as a goal/
 - web.postman.co
 
 ### What you’ll have to learn
-connect frontend to backend (learn all the things)
-Angular
+- connect frontend to backend (learn all the things)
+- Angular
 
 ### Project Tracker
 https://trello.com/b/uKZDq1UW/jjjalr
