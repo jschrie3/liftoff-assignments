@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[MyHabit Presentation.pdf](https://github.com/jschrie3/liftoff-assignments/files/11729662/MyHabit.Presentation.pdf)
